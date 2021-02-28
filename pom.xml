@@ -29,7 +29,7 @@
     </repositories>
 
 	<properties>
-		<geotools.version>20.2</geotools.version>
+		<geotools.version>24.2</geotools.version>
 	</properties>
 
     <dependencies>
